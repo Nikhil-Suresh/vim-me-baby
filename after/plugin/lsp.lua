@@ -6,6 +6,7 @@ end)
 
 lsp.ensure_installed({
 'tsserver',
+'elixirls',
 'eslint',
 'rust_analyzer',
 'yamlls',
